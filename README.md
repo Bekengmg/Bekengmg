@@ -28,14 +28,12 @@
 - 💼 [Login App Python (Contoh)](https://github.com/Bekemgmg/login-app)
 - 🌐 [Website Sekolah (Contoh)](https://github.com/Bekemgmg/website-smk)
 
-> *(Ganti link proyek di atas dengan proyek kamu sendiri ya!)*
-
 ---
 
 ### 📊 Statistik GitHub Saya
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bekemgmg&show_icons=true&theme=onedark" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bekemgmg&layout=compact&theme=onedark" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bekengmg&show_icons=true&theme=onedark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bekengmg&layout=compact&theme=onedark" width="320"/>
 </p>
 
 ---
