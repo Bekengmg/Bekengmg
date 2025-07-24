@@ -25,8 +25,8 @@
 ---
 
 ### 📂 Proyek Saya
-- 💼 [Login App Python (Contoh)](https://github.com/Bekemgmg/login-app)
-- 🌐 [Website Sekolah (Contoh)](https://github.com/Bekemgmg/website-smk)
+- 💼 [Login App Python ](https://github.com/Bekemgmg/login-app)
+- 🌐 [Website Sekolah ](https://github.com/Bekemgmg/website-smk)
 
 ---
 
