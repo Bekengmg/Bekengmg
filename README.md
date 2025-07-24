@@ -23,6 +23,6 @@
 
 ### 📊 Statistik GitHub Saya
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nanangvictor&show_icons=true&theme=onedark" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanangvictor&layout=compact&theme=onedark" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bekengmg&show_icons=true&theme=onedark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bekengmg&layout=compact&theme=onedark" width="320"/>
 </p>
