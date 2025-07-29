@@ -3,7 +3,7 @@
 <h1 align="center">✨ Halo, Saya Beken!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Masih+belajar...;Fokus+di+Mikrotik+dan+Jaringan.;Terima+kasih+sudah+berkunjung!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Selamat+Datang;Terima+kasih+sudah+berkunjung!" />
 </p>
 
 ---
